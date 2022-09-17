@@ -1,0 +1,62 @@
+* {
+  font-family: "Rubik", sans-serif;
+
+}
+
+
+.container{
+
+
+margin-top:20px;
+border: 10px solid #941651;
+padding: 15px;
+width:80%;
+
+
+
+}
+.errr{
+	
+	
+	color:#9f3633;
+	
+}
+.delete{
+	
+		background-color:#9f3633;
+		Border-color:#9f3633;
+		
+		color:white;
+	
+}
+
+.delete:hover{
+	
+		background-color: #5f1909;
+	
+	
+}
+a{
+  text-decoration: none;
+	
+	
+	color: #941651;
+}
+
+a:hover {
+		color: #4a132c;
+	
+}
+
+.btn-primary{
+	background-color: #941651;
+
+Border-color:#941651;
+}
+
+
+.btn-primary:hover{
+	background-color: #4a132c;
+	Border-color: #4a132c;
+	
+}
